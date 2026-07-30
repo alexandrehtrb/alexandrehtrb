@@ -1,4 +1,4 @@
-<h3 align="center">🌴 Hello there 👽 🌴</h3>
+<h3 align="center">🌴 Hello there 👽</h3>
 
 My name is Alexandre, I'm a software engineer from 🇧🇷 Campinas, Brazil.
 
