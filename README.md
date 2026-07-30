@@ -8,9 +8,9 @@ My name is Alexandre, I'm a software engineer from 🇧🇷 Campinas, Brazil.
 - 📡 Some other interests: Deming, chemistry 🧪, and volleyball 🏐
 
 <div align="center">
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" style="margin-right:6px;" alt="Fire" align="center">
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" style="margin-left:6px;margin-right:6px;" alt="Fire" align="center">
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" style="margin-left:6px;margin-right:6px;" alt="Fire" align="center">
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" style="margin-left:6px;margin-right:6px;" alt="Fire" align="center">
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" style="margin-left:6px;" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" width="66" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" width="66" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" width="66" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" width="66" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" width="66" alt="Fire" align="center">
 </div>
