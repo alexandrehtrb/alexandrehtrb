@@ -10,15 +10,11 @@ My name is Alexandre, I'm a software engineer from 🇧🇷 Campinas, Brazil.
 <div align="center">
   <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
   &nbsp;
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
   &nbsp;
   <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
   &nbsp;
-  &nbsp;
   <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
-  &nbsp;
-  &nbsp;
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
-  &nbsp;
   &nbsp;
   <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
 </div>
