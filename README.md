@@ -1,4 +1,4 @@
-<h3 align="center">Hello there 👽</h3>
+<h3 align="center">🌴 Hello there 👽 🌴</h3>
 
 My name is Alexandre, I'm a software engineer from 🇧🇷 Campinas, Brazil.
 
@@ -8,8 +8,9 @@ My name is Alexandre, I'm a software engineer from 🇧🇷 Campinas, Brazil.
 - 📡 Some other interests: Deming, chemistry 🧪, and volleyball 🏐
 
 <div align="center">
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire.gif?raw=true" alt="Fire" align="center">
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire.gif?raw=true" alt="Fire" align="center">
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire.gif?raw=true" alt="Fire" align="center">
-  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire.gif?raw=true" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
+  <img src="https://github.com/alexandrehtrb/alexandrehtrb/blob/master/fire2.gif?raw=true" alt="Fire" align="center">
 </div>
